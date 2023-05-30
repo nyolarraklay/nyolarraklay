@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Ernesto F. Osorio Jr, I am a developer. Being a front-end developer is an exciting and dynamic role in the world of web development. With every project, front-end developers contribute to shaping the digital landscape, making the web a more visually appealing, accessible, and engaging place for users worldwide. I am also a student at Noroff University. To hone my craft and update my skills for continuous growth and learning. 
+
+🧑‍💻 I’m currently working on ... my own Personal Portfolio
 <!--
 **nyolarraklay/nyolarraklay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
