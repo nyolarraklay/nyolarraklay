@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyolarraklay&label=Profile%20views&color=0e75b6&style=flat" alt="nyolarraklay" /> </p>
 
-- 🔭 I’m currently working on **my own portfolio page**
+- 🔭 I’m currently looking for **my first Job as a Developer**
 
-- 🌱 I’m honing my skills in **HTML, CSS, JavaScript, React JS, TailwindCSS, Bootstrap**
+- 🌱 I’m honing my skills in **HTML, CSS, JavaScript, React JS, TailwindCSS, Bootstrap, PHP, MySQL, WordPress**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nyolarraklay](https://github.com/nyolarraklay)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJS**
 
-- 📫 How to reach me **nyol_05@yahoo.com**
+- 📫 How to reach me **ernestojrosorio15@gmail.com**
 
 - ⚡ Fun fact **I dedicated my entire career to nursing in the Philippines. However, when the opportunity arose to further my education, I embraced it and decided to pursue a new path as a developer.**
 
